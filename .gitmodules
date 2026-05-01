@@ -1,0 +1,9 @@
+[submodule "opendht"]
+	path = opendht
+	url = https://github.com/savoirfairelinux/opendht.git
+[submodule "wireguard-p2p"]
+	path = wireguard-p2p
+	url = git@github.com:IdanDor/wireguard-p2p.git
+[submodule "opendht-rs"]
+	path = opendht-rs
+	url = git@github.com:IdanDor/opendht.git
